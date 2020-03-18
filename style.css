@@ -6,14 +6,14 @@ body {
 	
 h1 {
 	text-align: center;
-	color: white;
+	color: grey;
 	background: teal;
 	padding: 5px;
 }
 
 .column1{
-	width: 48%;
-	float: left;
+	width: 60%;
+	float: right;
 }
 
 .column2 {
@@ -49,7 +49,7 @@ h2 {
 #robots {
   font-size: 30px;
   color: white;
-  background: linear-gradient(blue, white, blue, white, blue, white);
+  background: linear-gradient(purple, white, blue, black, grey, orange);
   padding: 30px;
   border-radius: 5px;
   text-align: center;
