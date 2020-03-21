@@ -43,7 +43,7 @@ h2 {
 
 .photo {
 	box-shadow: 4px 4px 4px gray;
-	transform: rotate(10deg);
+	transform: rotate(0deg);
 }
 
 #robots {
